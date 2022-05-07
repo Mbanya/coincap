@@ -1,16 +1,23 @@
-# coincap
+# Coincap
 
-A new Flutter project.
+A flutter project that utilizes CoinGecko API to get Market data on Cryptocurrencies.
 
-## Getting Started
+## Learning Items
+1. How to use Stateful Widgets & how to setup MaterialApp
+2. How to require 3rd party packages from pub.dev
+3. Packages used
+    -Dio
+    -Get_it
+4. Setup Config file for API details i.e. endpoints,ApiKeys etc..
+5. Setup HttpService with Dio
+6. How to interact and fetch API data to display on the application
+7. How to implement navigation between widgets.
 
-This project is a starting point for a Flutter application.
+Screenshots of the Application
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![HomePage](https://user-images.githubusercontent.com/20039642/167246984-8809a6a7-ae19-4245-baf4-f65369f64d96.PNG)
+
+
+![DetailsPage](https://user-images.githubusercontent.com/20039642/167246990-36a7a01e-a5c0-40f9-a151-07cf53f61b7a.PNG)
